@@ -1,5 +1,3 @@
-# Into Reasarch
-
 ## Task 1 Introduction
 
 ### 1 Read the Introduction
