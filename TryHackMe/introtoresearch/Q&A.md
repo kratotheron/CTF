@@ -1,4 +1,4 @@
-# Into Reasarch [Link](https://tryhackme.com/room/introtoresearch)
+# Into Reasarch
 
 ## Task 1 Introduction
 
